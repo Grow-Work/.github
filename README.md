@@ -1,2 +1,3 @@
 # .github
-Basic info on grow: work organization
+Detailed info on grow: work organization
+Screen shots, videos, tutorials, extra documentation, etc.
