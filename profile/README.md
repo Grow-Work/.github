@@ -18,11 +18,11 @@ The purpose of this app is to help those just getting started in a new field by 
 
 ## Repos
 
-[Native Mobile App](https://github.com/Dionne-Stratton/grow-work-frontend-react-native)
+[Native Mobile App](https://github.com/Grow-Work/frontend-react-native)
 
-[Desktop Web App](https://github.com/Dionne-Stratton/grow-work-frontend-react)
+[Desktop Web App](https://github.com/Grow-Work/frontend-react-desktop)
 
-[Mongo Database and Server](https://github.com/Dionne-Stratton/grow-work-backend)
+[Mongo Database and Server](https://github.com/Grow-Work/backend-node-mongoDB)
 
 ## Useful resources
 
