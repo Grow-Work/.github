@@ -6,6 +6,7 @@ The purpose of this app is to help those just getting started in a new field by 
 
 ## Quicklinks
 
+* [Repos](#repos)
 * [Useful Resources](#useful-resources)
 * [Project MVP Features](#project-mvp-features)
     * [Account Tab](#account-tab)
@@ -14,6 +15,14 @@ The purpose of this app is to help those just getting started in a new field by 
 * [Features for Future Release](#features-for-future-release)
     * [Account Tab Additions](#account-tab-additions)
     * [Jobs Tab](#jobs-tab)
+
+## Repos
+
+[Native Mobile App](https://github.com/Dionne-Stratton/grow-work-frontend-react-native)
+
+[Desktop Web App](https://github.com/Dionne-Stratton/grow-work-frontend-react)
+
+[Mongo Database and Server](https://github.com/Dionne-Stratton/grow-work-backend)
 
 ## Useful resources
 
