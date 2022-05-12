@@ -24,6 +24,8 @@ The purpose of this app is to help those just getting started in a new field by 
 
 [Mongo Database and Server](https://github.com/Grow-Work/backend-node-mongoDB)
 
+[Design and Planning](https://github.com/Grow-Work/.github/blob/main/README.md)
+
 ## Useful resources
 
 [Contribution Guidelines](https://github.com/Grow-Work/.github/blob/main/GENERAL-CONTRIBUTING.md)
