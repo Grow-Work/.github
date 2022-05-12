@@ -15,6 +15,7 @@ The purpose of this app is to help those just getting started in a new field by 
 * [Features for Future Release](#features-for-future-release)
     * [Account Tab Additions](#account-tab-additions)
     * [Jobs Tab](#jobs-tab)
+    * [Advanced Search Page](#advanced-search-page)
 
 ## Repos
 
@@ -54,13 +55,13 @@ A list of the features needed for a minimum viable product across the enitre pro
 
 * View all profiles for companies
 * View individual detailed company profile information
-* Filter / search profiles based on parameters (location, company, roles, etc.)
+* Search profiles based on keys (location, company, roles, etc.)
 
 ### Professionals Tab
 
 * View all profiles for professionals
 * View individual detailed professional's profile information
-* Filter / search profiles based on parameters (location, skills, etc.)
+* Search profiles based on keys (location, skills, etc.)
 
 ## Features for future release
 
@@ -79,8 +80,15 @@ A list of the features planned for future release across the enitre project: des
 
 * View all job postings
 * View individual detailed job posting information
-* Filter / search job postings based on parameters (location, company, roles, etc.)
+* Search job postings based on keys (location, company, roles, etc.)
 * Save job posting to account tab
+
+### Advanced Search Page
+
+* Select database to search - Professionals, Companies, Jobs, etc.
+* Advanced search form fields populate based on database being searched
+* Set filters based on values entered into fields
+* Results populate below form after hitting submit button
 
 ## If you have ideas for more featues please reach out!
 
