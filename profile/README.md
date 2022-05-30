@@ -1,6 +1,6 @@
 # Grow: Work
 
-### An app designed to connect new grads / transitioning professionals and startups, helping them to grow together.
+### An app designed to connect new grads / transitioning professionals (Newbs) and startups / small companies, helping them to grow together.
 
 The purpose of this app is to help those just getting started in a new field by connecting budding professionals with growing companies in the hopes that everyone can get the expierence and help they need to succeed. Let's all grow our work!
 
@@ -9,12 +9,14 @@ The purpose of this app is to help those just getting started in a new field by 
 * [Repos](#repos)
 * [Useful Resources](#useful-resources)
 * [Project MVP Features](#project-mvp-features)
-    * [Account Tab](#account-tab)
+    * [Account Tab - All](#account-tab---all)
+    * [Account Tab - Companies](#account-tab---companies)
+    * [Account Tab - Newbs](#account-tab---newbs)
     * [Companies Tab](#companies-tab)
-    * [Professionals Tab](#professionals-tab)
+    * [Jobs Tab](#jobs-tab)
+    * [Newbs Tab](#newbs-tab)
 * [Features for Future Release](#features-for-future-release)
     * [Account Tab Additions](#account-tab-additions)
-    * [Jobs Tab](#jobs-tab)
     * [Advanced Search Page](#advanced-search-page)
 
 ## Repos
@@ -43,7 +45,7 @@ The purpose of this app is to help those just getting started in a new field by 
 
 A list of the features needed for a minimum viable product across the enitre project: desktop frontend, mobile native frontend, and the backend server.
 
-### Account Tab
+### Account Tab - All
 
 * Auth functionality
     * Sign up
@@ -51,16 +53,31 @@ A list of the features needed for a minimum viable product across the enitre pro
     * Sign out
 * Profile CRUD operations
 
+### Account Tab - Companies
+
+* Job listings with full CRUD operations
+
+### Account Tab - Newbs
+
+* Job postings view and remove saved
+
 ### Companies Tab
 
 * View all profiles for companies
 * View individual detailed company profile information
 * Search profiles based on keys (location, company, roles, etc.)
 
-### Professionals Tab
+### Jobs Tab
 
-* View all profiles for professionals
-* View individual detailed professional's profile information
+* View all job postings
+* View individual detailed job posting information
+* Search job postings based on keys (location, company, roles, etc.)
+* Save job posting to newb account tab
+
+### Newbs Tab
+
+* View all profiles for newbs
+* View individual detailed newb's profile information
 * Search profiles based on keys (location, skills, etc.)
 
 ## Features for future release
@@ -69,19 +86,10 @@ A list of the features planned for future release across the enitre project: des
 
 ### Account Tab Additions
 
-* Job postings with full CRUD operations
-* Job postings view and remove saved
-* Professionals and Companies profile matches
+* Newbs and Jobs matches
 * UI options
     * Light theme
     * Dark theme
-
-### Jobs Tab
-
-* View all job postings
-* View individual detailed job posting information
-* Search job postings based on keys (location, company, roles, etc.)
-* Save job posting to account tab
 
 ### Advanced Search Page
 
